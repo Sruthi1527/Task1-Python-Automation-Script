@@ -59,6 +59,3 @@ python automation.py
 
 ---
 
-# Author
-
-Created for Internship Task Submission
